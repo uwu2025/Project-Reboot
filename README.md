@@ -1,7 +1,7 @@
 # Project-Reboot
 
 S5-S12
-
+.
 S3 and S4 have support but haven't been tested much.<br>
 S13-S18 work perfectly fine, but the safezone does not work.
 
